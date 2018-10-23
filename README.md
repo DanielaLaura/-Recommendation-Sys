@@ -6,11 +6,11 @@ adding the product characteristics in their algorithms. Recommendation systems h
 years as a way for companies to provide better service and increase profit. In a broad sense, recommendation systems predict the
 level of interest a user has in a new item.
 
-# Recommender System
+### Recommender System
 - Popularity Based Recommender Make the same recommendation to every user, based on the popularity of an item.
 - Content-Based Recommender focus on properties of items. Similarity of items is determined by measuring the similarity in their properties
 
-# Data Pipeline Breakdown
+### Data Pipeline Breakdown
 The data is  scraped from Metacritic website with Selenium and BeautifulSoup can be transformed into two matrices. One matrix is completely about fragrance game, which includes these features:
 •	Game Title
 •	Platform
@@ -24,7 +24,7 @@ Another matrix is composed of both user and game information, which includes the
 •	User Score
 •	Review Text
 
-# Tools Consider Using
+### Tools Consider Using
 •	Data processing and EDA: Pandas, Numpy, Matplotlib, Seaborn
 •	Machine learning and stats: Scikit-learn, Scipy, PySpark
 •	Web Scaping: BeautifulSoup, Selenium
