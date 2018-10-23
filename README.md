@@ -25,6 +25,7 @@ Another matrix is composed of both user and game information, which includes the
 •	Review Text
 
 ### Tools Consider Using
+
 •	Data processing and EDA: Pandas, Numpy, Matplotlib, Seaborn
 •	Machine learning and stats: Scikit-learn, Scipy, PySpark
 •	Web Scaping: BeautifulSoup, Selenium
